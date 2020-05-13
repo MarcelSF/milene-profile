@@ -1,0 +1,94 @@
+/* TODO: design your profile with CSS */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap');
+@import url("https://use.fontawesome.com/releases/v5.0.13/css/all.css");
+
+body {
+  background-color: #f8f3eb;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #f40552;
+}
+
+h2 {
+  color: #fc7e2f;
+}
+
+i {
+  color: #c3edea;
+  transition: 0.3s;
+}
+
+i:hover {
+  color: #f40552;
+}
+
+.card-white {
+  background-color: white;
+  text-align: center;
+  margin: 10px auto;
+  width: 500px;
+  padding: 24px;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.card-white img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+.button-red {
+  background: #f40552;
+  color: white;
+  text-decoration: none;
+  padding: 8px 24px;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.button-red:hover {
+  background: white;
+  color: #f40552;
+  border: 1px solid #f40552;
+}
+
+#main-profile p {
+  color: white;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icon {
+  font-size: 32px;
+  margin: 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
